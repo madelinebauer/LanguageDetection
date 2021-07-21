@@ -8,3 +8,5 @@ The goal of this analysis is to create and train a model to detect the differenc
 [Project Paper](https://github.com/madelinebauer/LanguageDetection/blob/4a9e8086c88feb83267d43819c01985a9afb386a/Language%20Detection%20-%20BAUER.pdf 'Paper')
 
 [Presentation Slides](https://github.com/madelinebauer/LanguageDetection/blob/9eb9eee1c187aee60a3136f8666d0c6c0b049b99/LanguageDetectionPresentation-BAUER.pdf 'Presentation Slides')
+
+[Video Link](https://github.com/madelinebauer/LanguageDetection/blob/eda93bec438ad84b8a94581984e7d21166d8f608/Presentation%20Link%20-%20BAUER.pdf 'Video Link')
